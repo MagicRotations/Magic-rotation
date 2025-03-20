@@ -1,0 +1,80 @@
+/.cursor
+/.vscode
+/a3_function.lua
+/Action Framework
+/bindpadexporter
+/BindPadManager.spec
+/bindpad_manager.py
+/build
+/dist
+/Enh - Rotation.lua
+/FixForSpellsWithoutTargets.lua
+/Globals
+/Keybind_Instructions.txt
+/Magic autobind
+/Magic globals.lua
+/Magic-2025-01-11 - Copie.lua
+/Magic-2025-01-11.lua
+/Magic-2025-01-22.lua
+/Magic-2025-01-22a.lua
+/Magic-2025-01-22b.lua
+/Magic-2025-01-22c.lua
+/Magic-2025-01-22d.lua
+/Magic-2025-01-27.lua
+/Magic-2025-02-01.lua
+/Magic-2025-02-09.lua
+/Magic-2025-02-14.lua
+/Magic-2025-02-21.lua
+/Magic-2025-02-23.lua
+/Magic-2025-02-24.lua
+/Magic-2025-02-26.lua
+/Magic-2025-02-27.lua
+/Magic-2025-02-28.lua
+/Magic-2025-03-01-a.lua
+/Magic-2025-03-01-b.lua
+/Magic-2025-03-01-c.lua
+/Magic-2025-03-01.lua
+/Magic-2025-03-02-a.lua
+/Magic-2025-03-02.lua
+/Magic-2025-03-03-a.lua
+/Magic-2025-03-03-b.lua
+/Magic-2025-03-05.lua
+/Magic-2025-03-05a.lua
+/Magic-2025-03-05b.lua
+/Magic-2025-03-05c.lua
+/Magic-2025-03-05d.lua
+/Magic-2025-03-06.lua
+/Magic-2025-03-06a.lua
+/Magic-2025-03-09.lua
+/Magic-2025-03-09a.lua
+/Magic-2025-03-10.lua
+/Magic-2025-03-11.lua
+/Magic-2025-03-11a.lua
+/Magic-2025-03-11b.lua
+/Magic-2025-03-12.lua
+/Magic-2025-03-12a.lua
+/Magic-2025-03-13.lua
+/Magic-2025-03-13a.lua
+/Magic-2025-03-13b.lua
+/Magic-2025-03-13c.lua
+/Magic-2025-03-14.lua
+/Magic-2025-03-14a.lua
+/Magic-2025-03-15 - Copie.lua
+/Magic-2025-03-15.lua
+/Magic-2025-03-15a - Copie.lua
+/Magic-2025-03-15a.lua
+/Magic-2025-03-15b.lua
+/Magic-2025-03-16.lua
+/Magic-2025-03-16a.lua
+/Magic-2025-03-17.lua
+/Magic-2025-03-17a.lua
+/Magic-2025-03-17b.lua
+/Magic-2025-03-18.lua
+/README.md
+/requirements.txt
+/Rotations
+/simple_bindpad_manager.py
+/src
+/templates
+/temp_file.lua
+/Utils
